@@ -276,6 +276,7 @@ iframe {
 #lady-bug {
 	float: left;
 	width: 30%;
+	margin: 0 auto;
 }
 
 #skater {
