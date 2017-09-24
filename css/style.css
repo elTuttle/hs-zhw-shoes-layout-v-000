@@ -269,17 +269,20 @@ iframe {
 }
 
 #shoe-archive {
+	float: right;
 	width: 32%;
 	height: 600px;
 }
 
 #lady-bug {
+	float: left;
 	width: 32%;
 	margin: 15px 2% 10px 0;
 
 }
 
 #skater {
+	float: left;
 	width: 32%;
 	margin: 15px 2% 10px 0%;
 }
