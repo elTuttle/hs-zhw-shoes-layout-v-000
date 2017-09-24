@@ -115,11 +115,6 @@ iframe {
 	margin: 0 auto;
 }
 
-#summer-grass {
-	float: left;
-	width: 60%;
-}
-
 .milk_text {
 	font: bold 42px 'Elsie Swash Caps', cursive;
 	color: white;
@@ -265,6 +260,16 @@ iframe {
 	background-position: center top, left top;
 	background-repeat: no-repeat, repeat-y;
 	padding: 30px 0;
+}
+
+#summer-grass {
+	float: left;
+	width: 60%;
+}
+
+#shoe-archive {
+	float: left;
+	width: 60%;
 }
 
 	/********** Sections **********/
