@@ -265,12 +265,13 @@ iframe {
 #summer-grass {
 	float: left;
 	width: 68%;
+	height: 600px;
 }
 
 #shoe-archive {
 	float: right;
 	width: 30%;
-	height: 595px;
+	height: 600px;
 }
 
 #lady-bug {
